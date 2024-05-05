@@ -1,4 +1,5 @@
 # Streamlit / Ollama (Llama3) Custom Job Finder
+![image](https://github.com/msamylea/customized_job_hunt/assets/44280406/7358d60f-4fd6-48ba-811f-975ec0dc50c2)
 
 - Step 1: Upload Resume
 - Step 2: Generate customized keywords based on your resume skills
