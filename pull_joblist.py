@@ -5,7 +5,7 @@ import config as cfg
 
 def get_jobs(query):
     jobs = scrape_jobs(
-        site_name=["indeed"],
+        site_name=["ADD SITES"],
         search_term=query,
         location="Remote",
         is_remote=True,
